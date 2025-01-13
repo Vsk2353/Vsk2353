@@ -1,8 +1,10 @@
-## Hi there 👋
+<p align='center'>
+    <img src="https://i.gifer.com/2RNE.gif">
+</p>
 
 <!--
 **Vsk2353/Vsk2353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
